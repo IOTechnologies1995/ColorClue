@@ -1,0 +1,6 @@
+{
+  "name": "ColorClue",
+  "description": "Take a photo or pick an image to identify object colors, copy exact hex codes, and explore complementary color palettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ColorClue</string>
+    <string name="studio_tab">Studio</string>
+    <string name="history_tab">History</string>
+    <string name="take_photo_cd">Take photo to identify color</string>
+    <string name="pick_photo_cd">Pick a photo from gallery</string>
+    <string name="toggle_flash_cd">Toggle camera flash</string>
+    <string name="switch_camera_cd">Switch front or back camera</string>
+    <string name="retake_photo">New Photo</string>
+    <string name="copy_hex">Copy Hex</string>
+    <string name="copied_hex_message">Copied %1$s to clipboard</string>
+    <string name="copied_palette_message">Copied %1$s palette (%2$s)</string>
+    <string name="camera_permission_title">Point, Snap &amp; Decode Any Color</string>
+    <string name="camera_permission_body">Grant camera access to sample live colors through your viewfinder, or choose any photo from your library.</string>
+    <string name="enable_camera">Enable Camera</string>
+    <string name="pick_from_library">Pick from Photos</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="recommended_palettes">Recommended Palettes</string>
+    <string name="extracted_colors">Detected in Photo</string>
+    <string name="history_empty_title">No Saved Swatches Yet</string>
+    <string name="history_empty_body">Snap a photo or pick an image in the Studio to build your color library.</string>
+    <string name="save_swatch">Save Swatch</string>
+    <string name="swatch_saved">Saved %1$s to History</string>
+</resources>
